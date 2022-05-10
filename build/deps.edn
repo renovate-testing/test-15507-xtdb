@@ -2,7 +2,7 @@
  :deps {org.clojure/clojure {:mvn/version "1.10.3"}
 
         ;; Logging
-        org.slf4j/slf4j-api {:mvn/version "1.7.29"}
+        org.slf4j/slf4j-api {:mvn/version "1.7.36"}
         ch.qos.logback/logback-classic {:mvn/version "1.2.3"}
 
         ;; XTDB
