@@ -6,7 +6,7 @@
         ch.qos.logback/logback-classic {:mvn/version "1.2.3"}
 
         ;; XTDB
-        com.xtdb/xtdb-core {:mvn/version "xtdb-git-version"}
+        com.xtdb/xtdb-core {:mvn/version "1.20.0"}
         com.xtdb/xtdb-http-server {:mvn/version "xtdb-git-version"}}
 
  :aliases {:uberjar {:deps {io.github.seancorfield/build-clj {:git/tag "v0.6.7" :git/sha "22c2d09"}}
